@@ -13,6 +13,9 @@
     "environment": "^1.1.0",
     "next": "16.1.6",
     "prettier": "^3.8.1",
+    "primeflex": "^4.0.0",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.7",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
